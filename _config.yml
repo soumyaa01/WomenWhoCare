@@ -4,7 +4,7 @@ title: "Women Who Care"
 description: "Offical blog for Women Who Care"
 logo: 'assets/images/wwc_black.png'
 favicon: '/assets/images/wwc_black.png'
-baseurl: "/WomenWhoCare"
+baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 include: ["_pages"]
