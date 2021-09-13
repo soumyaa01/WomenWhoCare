@@ -20,7 +20,14 @@ authors:
     avatar: 'assets/images/avatar-deathwish.png'
     email: womenwhocare.in@gmail.com
     web: www.reddit.com/r/WomenWhoCare
-    description: "Founder/owner WomenWhoCare"
+    description: "Founder/owner WomenWhoCare. Software Engineer. "
+  V:
+    name: V
+    display_name: V
+    avatar: 'assets/images/avatar-V.png'
+    email: womenwhocare.in@gmail.com
+    web: www.reddit.com/r/WomenWhoCare
+    description: "Founder/owner WomenWhoCare. Software Engineer. "
   # john:
   #   name: John
   #   display_name: John    
