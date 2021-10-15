@@ -53,8 +53,10 @@ This is parallel to my lesson about being a workaholic but I don’t know who ne
 
 **10. The aim is not to ever make a mistake but learn to make better mistakes** 
 
-*If one thing had been different*
-*Would everything be different today?*
+*If one thing had been different* 
+
+*Would everything be different today?* 
+
 Like my bestie Taylor Swift said in the above lyrics, we often find ourselves lost in the thoughts of “what ifs”. Mistakes and regets are bound to happen, but at the end of the day they make you who you are today. Thinking about the past and regretting what you did doesn’t help you change the past, so why not just focus on moving forward instead. 
 
 **11. Money is not everything but money is something** 
